@@ -1,0 +1,3 @@
+#ignore below files
+.DS_Store
+Secrets.*
